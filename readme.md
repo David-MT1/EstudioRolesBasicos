@@ -7,9 +7,8 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 0. José Jiménez - josej@unsa.edu.pe  
 1. Linares Taco Viviana Flobele vlinares@unsa.edu.pe
 2. Mendoza Larico Delaney Dariana 
-3. María
+3. David Jose Luis Mendoza Taco - dmendozat@unsa.edu.pe
 4. Motta Medina, Brayan Teodoro - bmottam@unsa.edu.pe
-5. Molina soncco, Percy - pmolinaso@unsa.edu.pe
 ...  
 12. 
 
